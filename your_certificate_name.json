@@ -1,0 +1,1 @@
+This is your certificate file needed by Google speech-to-text API. It contains e.g., your private key. Please obtain this json file and enable it in your 'googleSpeechReco.py' file (line 28) by following the steps provided in official Google speech-to-text API website.
